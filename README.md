@@ -14,6 +14,7 @@ The process...
 6. Use the above info to write an Autopkg list.  
 
 Reference files for this project are:
+
 **logicpro1000_en.plist**
 This is the plist file that Logic supposedly uses to know what to download. It can be found at this url http://audiocontentdownload.apple.com/lp10_ms3_content_2013/logicpro1000_en.plist but I suspect that it might be outdated now or not the only file that Logic Pro X is looking too as this plist references 57 packages and Logic actually downloads 60 in total now. My guess is that we still need to find the other plist or the updated version of this one. My other guess is that these will provide a way for us to check our download urls and to track changes between Logic Pro X versions.
 
