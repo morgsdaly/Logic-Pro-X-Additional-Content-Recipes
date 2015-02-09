@@ -16,9 +16,9 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack1.pkg
 	<array>
 		<dict>
 			<key>md5checksum</key>
-			<string>3e9682a8fdc2b568f34328b008192dbb</string>
+			<string>42588abbf8da50cb367fd0d4fe27f4f8</string>
 			<key>path</key>
-			<string>/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Ballad Electric Bass.pst</string>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/02 Acoustic Pianos/Bosendorfer Piano Club.cst</string>
 			<key>type</key>
 			<string>file</string>
 		</dict>
@@ -29,9 +29,9 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack4_Instruments
 	<array>
 		<dict>
 			<key>md5checksum</key>
-			<string>d827c815dccfa889a251a0aec7955811</string>
+			<string>1b9bfca87733197eaf9134d78979236d</string>
 			<key>path</key>
-			<string>/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Deep Bass.pst</string>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/02 Acoustic Pianos/Pop Piano &amp; Pad.cst</string>
 			<key>type</key>
 			<string>file</string>
 		</dict>
@@ -212,9 +212,9 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_GarageBa
 	<array>
 		<dict>
 			<key>md5checksum</key>
-			<string>269b7e6c08af51dcc8368dc4e03e1592</string>
+			<string>0fb277ab3aaf4b4f165f9359fc95e910</string>
 			<key>path</key>
-			<string>/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Fingerstyle Electric Bass.pst</string>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/01 Logic Instruments/Hybrid Basic Synth.cst</string>
 			<key>type</key>
 			<string>file</string>
 		</dict>
@@ -238,82 +238,322 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	<array>
 		<dict>
 			<key>md5checksum</key>
-			<string>f2db3decfc87a50c5e7e3630f8c9f8b4</string>
+			<string>db4cdd1544f85586b0e9f481a8ca0388</string>
 			<key>path</key>
-			<string>/Library/Application Support/GarageBand/Instrument Library/Sampler/Sampler Files/French Horns/French Horns_cre2_2s_mf-f/HO-4_cre2_2s_mf-f_A#3.wav</string>
+			<string>/Library/Application Support/Logic/Sampler Instruments/09 Orchestral/02 Brass/French Horn Solo Legato.exs</string>
 			<key>type</key>
 			<string>file</string>
 		</dict>
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsOrchestralWoodwinds.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>d850e8c253c8a7d115ba3d50e2f8612c</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Sampler Instruments/09 Orchestral/01 Woodwinds/Alto Sax.exs</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsPiano.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>e9d1ec8c66adf9159aaee546e3b4fc90</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/01 Acoustic Pianos/Steinway Piano_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldKeyboards.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>421b29271cb267d930510a4e51473b52</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Sampler Instruments/10 World/03 Caribbean/Afro-Cuban Piano.exs</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldStringed.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>90574ca984cbbe5fc265e3e821461a8f</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Sampler Instruments/10 World/02 Asian/Chinese Erhu Violin+.exs</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldWoodwind.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>08d95f95a338ed3b423d0a0d272327ba</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Sampler Instruments/10 World/02 Asian/Chinese Di Zi Flute+.exs</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Logic9Legacy.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>4df181213b0db72f18c81fe1d0879b74</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Bus/01 Spaces/01 Large Spaces/01 Room/01.4s Jazz Vocal Room.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerBirchKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>13b7d37c2dda53c2c8a18bd1a19a11ab</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Birch Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerClassicSixtiesKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>fa88e5529cf44252757a63e4470f9ccd</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Classic Sixties Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerModernMapleKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>a8d0884622894b0a608e10a06f58312d</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Modern Maple Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerPatches.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>05872c6a887f6c40f0092a5f5b9189bb</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Drum Kit/z01 Producer Kits/8-Bit+.patch/8-Bit+/001 SUM.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerPawnShopKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>043055d1bd78a85cd04ecd0f5f448956</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Pawn Shop Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerSeventiesPlexiKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>adc927da3e28a1d1365651c9238808c3</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Seventies Plexi Kit Kick_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerStadiumKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>a97a76bcc59bb6646f4fcce13480ca23</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Stadium Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerStudioKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>534bd3ef6acbfa31327bb7eb0bd47f26</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Studio Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerTightMapleKit.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>759a3e6655c2c40c5b39a97555c25f4e</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Tight Maple Kit Crash_Mono_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsAlternative.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>bb8abf552b1476030e1261d82b0abe47</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Stereo/Brooklyn Kit Crash_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsRock.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>8a3f76b6e165f33affbe2d5d6f8edb1f</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Stereo/East Bay Kit Crash_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsRockB.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>68543c7f1e27378984e87ffa6314a0b5</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Stereo/Manchester Kit Crash_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsSongwriter.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b7c82fc62a129ee30263dbc84df427ec</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/EXS Factory Samples/Drum Kit Designer Consolidated/Drum Kit Designer/Stereo/Bluebird Kit Crash_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MGBContentCompatibility.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>0ebb9ff21746724827cf74c77428b5bf</string>
+			<key>path</key>
+			<string>/Library/Application Support/GarageBand/Instrument Library/Sampler/Sampler Files/Acoustic Guitar_consolidated.caf</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RemixTools_Instruments.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b57e0a895ec2286d456c4ce9171a9a45</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/04 Drums &amp; Percussion/02 Electronic Drum Kits/2-Step Remix.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RhythmSection_Instruments.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>bfda1143a34849d70f62a2603256d34e</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/03 Bass/01 Acoustic Bass/Unplugged Bass.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/Voices_Instruments.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>8ae103d527b314fcc3940c47d9f5b9cf</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/03 Bass/05 Warped Bass/Human Bass.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/WorldMusic_Instruments.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>355796b3931606c521cf8b194c44eb23</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Channel Strip Settings/Instrument/09 Guitars/01 Acoustic Guitars/Hawaiian Ukulele.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
