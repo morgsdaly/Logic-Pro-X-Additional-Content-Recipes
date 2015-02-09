@@ -1,51 +1,221 @@
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_ElectronicDrumKits.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>e04dbecfcdfb7ba1b63a37ee4815519c</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Ultrabeat Samples/Adept Machine/SS_Kit08_Bass.aif</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_IRsStereo.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>fbebaf2a8d95503ca1c5e19d8b4e471e</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Audio/03 Drums and Percussion/Toms/Reverb Toms.patch/Reverb Toms/001 Reverb Toms.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsBass.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>4a91fce4161687d34f748b40f7041019</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Bass/Fingerstyle Bass.patch/Fingerstyle Bass/001 Fingerstyle Bass.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsCinematic.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b34ca505571d4c4bdded0798ce02aef6</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Synthesizer/Plucked/16mm Dream Sequence.patch/16mm Dream Sequence/001 16mm Dream Sequence.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsGuitar.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>195de8d296d61d381cf10ebef4c5ae6c</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Guitar/Acoustic Guitar Harmonics.patch/Acoustic Guitar Harmonics/001 Acoustic Guitar Harmonics.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMallet.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>067e6922ae68b7d767a83bfd69eea31d</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Mallet/Glass Marimba Hard.patch/Glass Marimba Hard/001 Glass Marimba Hard.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMellotron.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b8a1c95909772159746d1f5489f371c8</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Vintage Mellotron/3 Violins.patch/#Root.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralChoir.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b66d407677c67083ea8b0fbbb61c81c1</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Choir/Boys Chamber Ensemble.patch/Boys Chamber Ensemble/001 Boys Chamber Ensemble.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralHarp.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>1d70364a0b665ef73b5fc7726dedb57a</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Harp/Harp.patch/Harp/001 Harp.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralKeyboard.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>16b1b26fa8f17daf78b7b82d5fc66ae4</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Keyboard/Celesta.patch/Celesta/001 Celesta.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPercussion.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>c2bce15d7b627ea215286a59c01c03b7</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Percussion/Crotales.patch/Crotales/001 Crotales.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPipeOrgan.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>38548946a49b5355db8bcf0c9bd6ddf6</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Pipe Organ/Baroque Organ.patch/Baroque Organ/001 Baroque Organ.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralStrings.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>c380846b134faa1a31346ef02f1251e3</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Orchestral/Strings/Basses.patch/Basses/001 Basses.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldPercussion.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>bced96642bc23e1a5a6c41a36356c7f7</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/World/Percussion/African Kalimba.patch/African Kalimba/001 African Kalimba.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldVoice.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>5250d1f2a125606a443cebd1859650d2</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/World/Voice/South African Singers.patch/South African Singers/001 South African Singers.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_StereoDrumKitsRnB.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>880993903e22197722ba02e686214e96</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Instrument/Drum Kit/Motown Revisited.patch/Motown Revisited/001 Motown Revisited.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/ProAudioCoreContent10.pkg
-
+<key>installs</key>
+	<array>
+		<dict>
+			<key>md5checksum</key>
+			<string>b890d326bad9cb80591f1a30c5c6406b</string>
+			<key>path</key>
+			<string>/Library/Application Support/Logic/Patches/Audio/03 Drums and Percussion/Hi-Hat/Basic Hi-Hat.patch/Basic Hi-Hat/001 Basic Hi-Hat.cst</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
 
