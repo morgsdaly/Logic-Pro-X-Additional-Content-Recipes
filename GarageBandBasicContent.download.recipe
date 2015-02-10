@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Downloads the additonal content package called GarageBandBasicContent.pkg for Logic Pro X.</string>
+	<key>Identifier</key>
+	<string>com.github.portalpie.download.GarageBandBasicContent</string>
+	<key>Input</key>
+	<dict>
+		<key>NAME</key>
+		<string>GarageBandBasicContent</string>
+		<key>DOWNLOAD_URL</key>
+		<string>http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg</string>
+	</dict>
+	<key>MinimumVersion</key>
+	<string>6.0.1.0.1.1203730862</string>
+	<key>Process</key>
+	<array>
+		<dict>
+			<key>Processor</key>
+			<string>URLDownloader</string>
+			<key>Arguments</key>
+			<dict>
+				<key>url</key>
+				<string>%DOWNLOAD_URL%</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Processor</key>
+			<string>EndOfCheckPhase</string>
+		</dict>
+	</array>
+</dict>
+</plist>
