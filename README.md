@@ -23,3 +23,6 @@ These files simply contain the raw download urls.
 
 **lp10_ms3_content_2013_w_instals.txt** & **lp10_ms3_content_2015_w_instals.txt**
 These files contact the package download urls and the associated installs key data for each pkg.
+
+**Update February 10, 2015**  
+My download and munki recipes seem to work. Turns out that all I needed was the download URL and a path for a file for the installs item. Now how best to structure things before writing all the scripts.
