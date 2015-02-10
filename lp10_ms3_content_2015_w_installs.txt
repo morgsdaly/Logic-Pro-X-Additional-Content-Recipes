@@ -1,4 +1,5 @@
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_ElectronicDrumKits.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -12,6 +13,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Electron
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_IRsStereo.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -25,6 +27,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_IRsStere
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsBass.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -38,6 +41,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsCinematic.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -51,6 +55,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsGuitar.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -64,6 +69,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMallet.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -77,6 +83,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMellotron.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -90,6 +97,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralChoir.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -103,6 +111,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralHarp.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -116,6 +125,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralKeyboard.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -129,6 +139,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPercussion.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -142,6 +153,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPipeOrgan.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -155,6 +167,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralStrings.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -168,6 +181,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldPercussion.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -181,6 +195,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldVoice.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -194,6 +209,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_StereoDrumKitsRnB.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -207,6 +223,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_StereoDr
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/ProAudioCoreContent10.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>

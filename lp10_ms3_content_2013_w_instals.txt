@@ -1,4 +1,5 @@
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -12,6 +13,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicConte
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack1.pkg
+Version: 1.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -25,6 +27,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack1.pkg
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack4_Instruments.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -38,6 +41,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/JamPack4_Instruments
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsChillwave.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -51,6 +55,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsDeepHouse.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -64,6 +69,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsDubstep.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -78,6 +84,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	<key>version</key>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsElectroHouse.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -91,6 +98,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsHipHop.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -104,6 +112,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacy1.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -117,6 +126,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacyRemix.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -130,6 +140,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacyRhythm.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -143,6 +154,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacySymphony.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -156,6 +168,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacyVoices.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -169,6 +182,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsLegacyWorld.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -182,6 +196,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsModernRnB.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -195,6 +210,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoopsTechHouse.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -208,6 +224,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_AppleLoo
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_GarageBand6Legacy.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -221,6 +238,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_GarageBa
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_IRsSurround.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -234,6 +252,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_IRsSurro
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsOrchestralBrass.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -247,6 +266,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsOrchestralWoodwinds.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -260,6 +280,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsPiano.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -273,6 +294,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldKeyboards.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -286,6 +308,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldStringed.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -299,6 +322,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_InstrumentsWorldWoodwind.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -312,6 +336,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Instrume
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Logic9Legacy.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -325,6 +350,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Logic9Le
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerBirchKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -338,6 +364,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerClassicSixtiesKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -351,6 +378,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerModernMapleKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -364,6 +392,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerPatches.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -377,6 +406,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerPawnShopKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -390,6 +420,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerSeventiesPlexiKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -403,6 +434,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerStadiumKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -416,6 +448,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerStudioKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -429,6 +462,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_ProducerTightMapleKit.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -442,6 +476,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_Producer
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsAlternative.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -455,6 +490,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDr
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsRock.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -468,6 +504,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDr
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsRockB.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -481,6 +518,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDr
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDrumKitsSongwriter.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -494,6 +532,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MAContent10_StereoDr
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MGBContentCompatibility.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -507,6 +546,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/MGBContentCompatibil
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RemixTools_Instruments.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -520,6 +560,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RemixTools_Instrumen
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RhythmSection_Instruments.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -533,6 +574,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/RhythmSection_Instru
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/Voices_Instruments.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
@@ -546,6 +588,7 @@ http://audiocontentdownload.apple.com/lp10_ms3_content_2013/Voices_Instruments.p
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2013/WorldMusic_Instruments.pkg
+Version: 
 <key>installs</key>
 	<array>
 		<dict>
