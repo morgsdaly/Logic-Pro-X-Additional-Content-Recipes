@@ -14,7 +14,7 @@
 		<string>http://audiocontentdownload.apple.com/lp10_ms3_content_2013/GarageBandBasicContent.pkg</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>6.0.1.0.1.1203730862</string>
+	<string>0.4.2</string>
 	<key>Process</key>
 	<array>
 		<dict>

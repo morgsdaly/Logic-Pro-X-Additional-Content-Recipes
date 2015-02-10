@@ -33,7 +33,7 @@
 		</dict>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>6.0.1.0.1.1203730862</string>
+	<string>0.4.2</string>
 	<key>ParentRecipe</key>
 	<string>com.github.portalpie.download.GarageBandBasicContent</string>
     <key>Process</key>
