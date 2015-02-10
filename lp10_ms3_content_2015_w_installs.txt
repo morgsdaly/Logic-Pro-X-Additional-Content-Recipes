@@ -1,5 +1,5 @@
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_ElectronicDrumKits.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -13,7 +13,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_IRsStereo.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -27,7 +27,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsBass.pkg
-Version: 
+Version: 3.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -41,7 +41,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsCinematic.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -55,7 +55,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsGuitar.pkg
-Version: 
+Version: 2.0.1.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -69,7 +69,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMallet.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -83,7 +83,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMellotron.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -97,7 +97,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralChoir.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -111,7 +111,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralHarp.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -125,7 +125,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralKeyboard.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -139,7 +139,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPercussion.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -153,7 +153,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralPipeOrgan.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -167,7 +167,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsOrchestralStrings.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -181,7 +181,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldPercussion.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -195,7 +195,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsWorldVoice.pkg
-Version: 
+Version: 2.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -209,7 +209,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_StereoDrumKitsRnB.pkg
-Version: 
+Version: 3.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
@@ -223,7 +223,7 @@ Version:
 	</array>
 
 http://audiocontentdownload.apple.com/lp10_ms3_content_2015/ProAudioCoreContent10.pkg
-Version: 
+Version: 3.0.0.0.1.1256150330
 <key>installs</key>
 	<array>
 		<dict>
