@@ -39,22 +39,16 @@
     <key>Process</key>
 	<array>
 		<dict>
-			<key>Processor</key>
-			<string>MunkiInstallsItemsCreator</string>
-		</dict>
-		<dict>
-			<key>installs</key>
-				<array>
-					<dict>
-						<key>md5checksum</key>
-						<string>e2b837fa39912d78d00a3ed820226519</string>
-						<key>path</key>
-						<string>/Library/Application Support/GarageBand/ChordTrainer/1. Major Open Chords.chtr</string>
-						<key>type</key>
-						<string>file</string>
-					</dict>
-				</array>
-		</dict>
+            <key>Arguments</key>
+            <dict>
+                <key>installs_item_paths</key>
+                <array>
+                    <string>/Library/Application Support/GarageBand/ChordTrainer/1. Major Open Chords.chtr</string>
+                </array>
+            </dict>
+            <key>Processor</key>
+            <string>MunkiInstallsItemsCreator</string>
+        </dict>
         <dict>
             <key>Processor</key>
             <string>MunkiPkginfoMerger</string>
