@@ -1,4 +1,7 @@
 # Logic-Pro-X-Additional-Content-Recipes
+
+**UPDATE:** Thanks to some good advice from Greg Neagle this is probably the wrong way to go about it. If the packages were being regulary updated then this might be a good idea but they are not. A better idea would be to extend Hannes' work: https://github.com/hjuutilainen/adminscripts/blob/master/download-logicprox-content.py and add the functionality to push the packages to munki after downloading them. Originally too I thought that installs keys would be required. As this info is in the pkgs from apple it might be little trouble to add them anyway, but I have also been advised that if pkg receipts have not been working it's probably due to this bug: https://groups.google.com/forum/#!topic/munki-dev/0Ku-dUjQooQ (There is discussion about updating munki in relation to dealing with this, but in the meantime it may have to be done manually if it cannot be scripted.)
+
 Autopkg Recipes for downloading and importing Logic Pro X Additional Content into Munki. Very much just an idea at the moment.
 
 The idea is to first document all the download links for each pkg. From the files installed by the pkg a file needs to be chosen to run `/usr/local/munki/makepkginfo -f /path/to/file` against in order to generate items for an installs list to be added to each pkginfo file. Reference: https://github.com/munki/munki/wiki/How-Munki-Decides-What-Needs-To-Be-Installed 
